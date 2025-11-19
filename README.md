@@ -1,5 +1,10 @@
 # AmbedkarGPT-Intern-Task
+# Ollama Installation
 
+```bash
+curl -fsSL https://ollama.ai/install.sh | sh 
+ollama pull mistral 
+```
 ## clone the repository
 
 ```bash
