@@ -1,5 +1,10 @@
 # AmbedkarGPT-Intern-Task
 
+## clone the repository
+
+```bash
+git clone https://github.com/Hello-Sai/AmbedkarGPT-Intern-Task.git
+```
 
 ## create virtual environment for having the libraries in a separate space
 
